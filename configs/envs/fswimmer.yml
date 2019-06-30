@@ -1,0 +1,4 @@
+env:
+  id: FixedSwimmer
+runner:
+  max_steps: 1000

@@ -1,0 +1,6 @@
+env:
+  id: MountainCar
+runner:
+  max_steps: 200
+plan:
+  max_steps: 200

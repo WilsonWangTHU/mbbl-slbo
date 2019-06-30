@@ -1,0 +1,6 @@
+env:
+  id: InvertedPendulum
+runner:
+  max_steps: 100
+plan:
+  max_steps: 100

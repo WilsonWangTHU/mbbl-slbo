@@ -1,0 +1,6 @@
+env:
+  id: FixedAnt
+runner:
+  max_steps: 1000
+plan:
+  max_steps: 1000

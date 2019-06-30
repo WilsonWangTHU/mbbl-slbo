@@ -1,0 +1,7 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
+env:
+  id: gym_slimhumanoid
+runner:
+  max_steps: 1000
+plan:
+  max_steps: 1000

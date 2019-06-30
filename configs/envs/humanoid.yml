@@ -1,0 +1,5 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
+env:
+  id: POMDPHumanoid-v2
+runner:
+  max_steps: 500

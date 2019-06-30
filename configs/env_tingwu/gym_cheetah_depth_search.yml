@@ -1,0 +1,7 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
+env:
+  id: HalfCheetah
+runner:
+  max_steps: ENV_LENGTH
+plan:
+  max_steps: PLAN_LENGTH

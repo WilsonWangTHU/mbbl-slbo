@@ -1,0 +1,6 @@
+env:
+  id: CartPole
+runner:
+  max_steps: 200
+plan:
+  max_steps: 200

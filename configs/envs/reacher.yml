@@ -1,0 +1,4 @@
+env:
+  id: Reacher
+runner:
+  max_steps: 50
